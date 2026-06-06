@@ -3,7 +3,7 @@
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on AI-Powered Email Creative, Image Generation & Design Automation*  
-**Last updated: March 2026**
+**Last updated: June 2026**
 
 This repository tracks notable **SaaS platforms** and **open-source projects** building **AI design tools for email marketing**. These tools help marketers and designers generate beautiful email images, templates, layouts, hero banners, product visuals, and personalized creative assets at scale using text prompts and brand guidelines.
 
@@ -21,23 +21,24 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS Products
 
-### Core Platforms (AI Email Design Tools)
+### Comparison of AI Email Design Platforms
 
-- **[FloatPic](https://floatpic.com/)**  
-  Specialized AI tool for generating stunning, email-optimized product images and lifestyle visuals from simple prompts.
-
-- **[Ideogram 4.0](https://ideogram.ai/)**  
-  Leading text-to-image model with excellent typography and layout understanding, widely used for email hero banners and creative assets.
-
-- **[Lumo Studios](https://lumostudios.ai/)**  
-  AI-powered email design platform focused on beautiful, on-brand templates and visual storytelling.
-
-- **[Brew](https://brew.ai/)**  
-  Intelligent AI email creative assistant that generates complete designs, images, and copy variations optimized for conversions.
+| Product | Description | Pricing (Monthly) | Free Tier / Limit |
+| :--- | :--- | :--- | :--- |
+| **[Brew](https://brew.ai/)** | AI-native ESP that generates entire campaigns (strategy, copy, and design). | Starts at $49 | Yes (1,000 sends, 500 AI credits) |
+| **[Ideogram 4.0](https://ideogram.ai/)** | Leading text-to-image model with excellent typography for hero banners. | Starts at ~$7 | Yes (10 slow credits/week) |
+| **[Midjourney](https://midjourney.com/)** | High-end AI image generator for professional marketing visuals. | Starts at $10 | No |
+| **[Canva Magic Studio](https://canva.com/)** | All-in-one design suite with AI-powered layout and resizing. | Starts at ~$13 | Yes (Limited AI credits) |
+| **[Stripo](https://stripo.email/)** | Email template builder with AI copy optimization and deep HTML control. | Starts at $20 | Yes (10 emails, 4 exports) |
+| **[Beefree](https://bee-free.io/)** | Visual drag-and-drop email builder with AI text and image assistant. | Starts at $30 | Yes (10 designs) |
+| **[Lumo Studios](https://lumostudios.ai/)** | AI-powered design platform for on-brand templates and visual storytelling. | Starts at ~$41 | Yes (Free preview/trial) |
+| **[FloatPic](https://floatpic.com/)** | AI tool for generating email-optimized product images and lifestyle visuals. | ~$5–$15 | Varies (Trial available) |
+| **[Jasper](https://jasper.ai/)** | AI content platform for email campaign strategy, copy, and images. | Starts at $49 | No (7-day trial) |
+| **[Copy.ai](https://copy.ai/)** | AI platform for automating GTM workflows and email creation. | Starts at $29 | Yes (2,000 words/mo) |
 
 ### Advanced & Specialized Platforms
 
-**Other notable mentions**: Midjourney (with email workflows), Canva Magic Studio, and various ESP-native AI design features.
+**Other notable mentions**: Various ESP-native AI design features (MailerLite, Mailchimp, Klaviyo), Adobe Firefly, and DALL-E 3 integration within marketing suites.
 
 ## Open-Source GitHub Projects
 
