@@ -1,98 +1,116 @@
-# Awesome-Email-Marketing-AI-Design-Tools
-## Top AI Design Tools for Email Marketing Ecosystem
+# 📧 Awesome Email Marketing AI Design Tools 🎨
 
-**Curated List of SaaS Products & Open-Source GitHub Projects**  
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Email-Marketing-AI-Design-Tools?style=social)
+![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
+
+## 🚀 Top AI Design Tools for Email Marketing Ecosystem
+
+**A curated list of AI-powered SaaS platforms and Open-Source projects for automated email design, image generation, and creative automation.**
+
 *Focused on AI-Powered Email Creative, Image Generation & Design Automation*  
-**Last updated: June 2026**
+**📅 Last updated: June 2026**
 
 This repository tracks notable **SaaS platforms** and **open-source projects** building **AI design tools for email marketing**. These tools help marketers and designers generate beautiful email images, templates, layouts, hero banners, product visuals, and personalized creative assets at scale using text prompts and brand guidelines.
 
 **Examples** include FloatPic, Ideogram 4.0, Lumo Studios, and Brew (the category leaders). Tools listed here emphasize **high-quality email-ready assets**, brand consistency, fast iteration, and seamless export to ESPs (Mailchimp, Klaviyo, etc.).
 
-**Open-source emphasis**: This section is heavily expanded with every major active project for self-hosting, local generation, fine-tuning, and unlimited creative output — ideal for agencies, e-commerce teams, and creators wanting full control and zero per-image costs.
+---
 
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
+### 🌟 Why AI in Email Design?
+- **Speed**: Generate hero images and templates in seconds.
+- **Personalization**: Create unique visuals for different segments.
+- **Consistency**: Maintain brand guidelines automatically.
+- **Open-Source**: Self-host your creative pipeline for zero per-image costs.
 
-## Table of Contents
-- [SaaS Products](#saas-products)
-- [Open-Source GitHub Projects](#open-source-github-projects)
-- [How to Contribute](#how-to-contribute)
-- [Disclaimer](#disclaimer)
+---
 
-## SaaS Products
+## 📑 Table of Contents
+- [✨ SaaS Products](#saas-products)
+- [🛠️ Open-Source GitHub Projects](#open-source-github-projects)
+- [🤝 How to Contribute](#how-to-contribute)
+- [⚠️ Disclaimer](#disclaimer)
 
-### Comparison of AI Email Design Platforms
+---
 
-| Product | Description | Pricing (Monthly) | Free Tier / Limit |
+## ✨ SaaS Products
+
+### Comparison of AI Email Design & Marketing Platforms
+
+| Product | Description | 💰 Pricing (Monthly) | 🎁 Free Tier / Limit |
 | :--- | :--- | :--- | :--- |
-| **[Brew](https://brew.ai/)** | AI-native ESP that generates entire campaigns (strategy, copy, and design). | Starts at $49 | Yes (1,000 sends, 500 AI credits) |
-| **[Ideogram 4.0](https://ideogram.ai/)** | Leading text-to-image model with excellent typography for hero banners. | Starts at ~$7 | Yes (10 slow credits/week) |
-| **[Midjourney](https://midjourney.com/)** | High-end AI image generator for professional marketing visuals. | Starts at $10 | No |
-| **[Canva Magic Studio](https://canva.com/)** | All-in-one design suite with AI-powered layout and resizing. | Starts at ~$13 | Yes (Limited AI credits) |
-| **[Stripo](https://stripo.email/)** | Email template builder with AI copy optimization and deep HTML control. | Starts at $20 | Yes (10 emails, 4 exports) |
-| **[Beefree](https://bee-free.io/)** | Visual drag-and-drop email builder with AI text and image assistant. | Starts at $30 | Yes (10 designs) |
-| **[Lumo Studios](https://lumostudios.ai/)** | AI-powered design platform for on-brand templates and visual storytelling. | Starts at ~$41 | Yes (Free preview/trial) |
-| **[FloatPic](https://floatpic.com/)** | AI tool for generating email-optimized product images and lifestyle visuals. | ~$5–$15 | Varies (Trial available) |
-| **[Jasper](https://jasper.ai/)** | AI content platform for email campaign strategy, copy, and images. | Starts at $49 | No (7-day trial) |
-| **[Copy.ai](https://copy.ai/)** | AI platform for automating GTM workflows and email creation. | Starts at $29 | Yes (2,000 words/mo) |
+| **[Brew](https://brew.ai/)** | AI-native ESP for complete campaign generation. | Starts at $49 | Yes (1,000 sends, 500 AI credits) |
+| **[Ideogram 4.0](https://ideogram.ai/)** | Best-in-class typography for email hero banners. | Starts at ~$7 | Yes (10 slow credits/week) |
+| **[Midjourney](https://midjourney.com/)** | Pro-grade AI visuals and high-end photography. | Starts at $10 | No |
+| **[Canva Magic Studio](https://canva.com/)** | All-in-one AI design suite with easy resizing. | Starts at ~$13 | Yes (Limited AI credits) |
+| **[Stripo](https://stripo.email/)** | HTML builder with AI copy & subject line tools. | Starts at $20 | Yes (10 emails, 4 exports) |
+| **[Beefree](https://bee-free.io/)** | Drag-and-drop builder with AI design assistant. | Starts at $30 | Yes (10 designs) |
+| **[Lumo Studios](https://lumostudios.ai/)** | AI-powered visual storytelling & templates. | Starts at ~$41 | Yes (Free preview/trial) |
+| **[FloatPic](https://floatpic.com/)** | AI for email-optimized product & lifestyle visuals. | ~$5–$15 | Varies (Trial available) |
+| **[Jasper](https://jasper.ai/)** | AI platform for email copy, images, and strategy. | Starts at $49 | No (7-day trial) |
+| **[Copy.ai](https://copy.ai/)** | Automated GTM workflows and email creation. | Starts at $29 | Yes (2,000 words/mo) |
 
-### Advanced & Specialized Platforms
+### 🛠️ Advanced & Specialized Platforms
 
 **Other notable mentions**: Various ESP-native AI design features (MailerLite, Mailchimp, Klaviyo), Adobe Firefly, and DALL-E 3 integration within marketing suites.
 
-## Open-Source GitHub Projects
+---
+
+## 🛠️ Open-Source GitHub Projects
 
 ### Dedicated AI Email Design & Image Generation Projects
 
-- **[Stable Diffusion WebUI (AUTOMATIC1111)](https://github.com/AUTOMATIC1111/stable-diffusion-webui)**  
-  The most feature-rich open-source interface for generating high-quality email visuals, banners, and product images with ControlNet, LoRAs, and email-specific fine-tunes.
+- **🖼️ [Stable Diffusion WebUI (AUTOMATIC1111)](https://github.com/AUTOMATIC1111/stable-diffusion-webui)**  
+  The most feature-rich open-source interface for generating high-quality email visuals with ControlNet.
 
-- **[ComfyUI](https://github.com/comfyanonymous/ComfyUI)**  
-  Powerful node-based workflow tool for advanced AI image generation. Excellent for building reusable email design pipelines with consistent branding.
+- **⛓️ [ComfyUI](https://github.com/comfyanonymous/ComfyUI)**  
+  Node-based workflow tool for building advanced, reusable email design pipelines.
 
-- **[Fooocus](https://github.com/lllyasviel/Fooocus)**  
-  User-friendly local AI image generator with Midjourney-like simplicity, perfect for quickly creating email-ready creatives.
+- **⚡ [Fooocus](https://github.com/lllyasviel/Fooocus)**  
+  User-friendly local AI image generator with Midjourney-like simplicity.
 
-- **[Stable Audio + Image Pipelines](https://github.com/Stability-AI/stable-audio-tools)** (combined with image tools)  
-  Open-source tools for generating both visuals and audio elements for rich email campaigns.
+- **🔊 [Stable Audio + Image Pipelines](https://github.com/Stability-AI/stable-audio-tools)**  
+  Tools for generating both visuals and audio elements for rich email campaigns.
 
-- **[InvokeAI](https://github.com/invoke-ai/InvokeAI)**  
-  Clean, professional open-source image generation platform with strong canvas and editing tools tailored for marketing creatives.
+- **🎨 [InvokeAI](https://github.com/invoke-ai/InvokeAI)**  
+  Professional image generation platform with strong canvas and editing tools.
 
-- **[Draw Things](https://github.com/drawthingsapp/draw-things)**  
-  Excellent Mac-native open-source app for local AI image generation optimized for email and marketing assets.
+- **💻 [Draw Things](https://github.com/drawthingsapp/draw-things)**  
+  Mac-native open-source app for local AI generation optimized for marketing assets.
 
-- **[OpenOutpaint](https://github.com/Acly/openoutpaint)**  
-  Infinite canvas extension for Stable Diffusion, great for designing full email layouts and hero sections.
+- **📐 [OpenOutpaint](https://github.com/Acly/openoutpaint)**  
+  Infinite canvas extension, great for designing full email layouts and hero sections.
 
-- **[Email Template Generators + AI](https://github.com/search?q=email+template+ai+generator)**  
-  Multiple open-source projects that combine HTML email frameworks (MJML, Foundation) with local LLM + image generation.
+- **📧 [Email Template Generators + AI](https://github.com/search?q=email+template+ai+generator)**  
+  Projects combining HTML email frameworks (MJML, Foundation) with local AI.
 
-### Additional Strong Open-Source Options
+### 📚 Additional Strong Open-Source Options
 
-- **[MJML](https://github.com/mjmlio/mjml)** — Responsive email framework easily combined with AI image generators.
-- **[Litmus / Email on Acid open-source alternatives** and testing tools.
-- **Many community LoRAs and fine-tunes** specifically trained on email marketing aesthetics and brand styles.
-- **LangGraph + ComfyUI pipelines** for fully automated end-to-end email creative generation agents.
-- **[Automatic1111 extensions](https://github.com/AUTOMATIC1111/stable-diffusion-webui)** ecosystem including ControlNet, IP-Adapter, and React components for email layouts.
+- **[MJML](https://github.com/mjmlio/mjml)** — Responsive email framework easily combined with AI generators.
+- **[Litmus / Email on Acid open-source alternatives]** and testing tools.
+- **Community LoRAs** specifically trained on email marketing aesthetics and brand styles.
+- **LangGraph + ComfyUI** for automated end-to-end email creative generation agents.
 
-**Frameworks for building custom tools**: Combine **ComfyUI** or **Fooocus** with **MJML**, **Ollama** for copy, and **LangGraph** for agentic email design workflows running entirely locally.
+---
 
-## How to Contribute
+## 🤝 How to Contribute
 
+We love contributions! To add a new tool:
 1. Fork the repo.
-2. Add/edit entries in `README.md` (follow existing format).
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-4. Submit PR with a short explanation.
+2. Add/edit entries in `README.md` (follow the existing table/list format).
+3. Include: **Name**, **Link**, **1–2 sentence description**, and **Category**.
+4. Submit a PR with a short explanation.
 
-Star the repo if you find it useful!
+---
 
-## Disclaimer
+## ⚠️ Disclaimer
 
 - This is a **community-curated** list — not exhaustive and not an endorsement.
-- Generated images and designs should be reviewed for brand alignment and legal considerations (copyright, trademarks).
+- Generated images and designs should be reviewed for brand alignment and legal considerations.
 - Self-hosted open-source tools often require a capable GPU for best performance.
 
+---
 
 ## 📈 Star History
 
@@ -106,8 +124,7 @@ Star the repo if you find it useful!
 	</a>
 </div>
 
-
 ---
 
-**Made for email marketers, e-commerce teams, designers, and growth hackers.**  
-Let's make email creative faster, more beautiful, and fully controllable.
+**Made for email marketers, e-commerce teams, and designers.**  
+Let's make email creative faster, more beautiful, and fully controllable. 🚀
