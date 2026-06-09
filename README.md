@@ -1,9 +1,18 @@
 # 📧 Awesome Email Marketing AI Design Tools 🎨
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<div align="center">
+
+[![Awesome](https://awesome.re/badge.svg)](https://github.com/ishandutta2007/awesome-awesome-awesome)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Email-Marketing-AI-Design-Tools?style=social)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
+<br />
+<br />
+  <a href="https://github.com/ishandutta2007">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow&style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
+  </a>
+
+</div>
 
 ## 🚀 Top AI Design Tools for Email Marketing Ecosystem
 
